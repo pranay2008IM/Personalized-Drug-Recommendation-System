@@ -1,0 +1,8 @@
+# Input your patient data in the following format (one per line):
+# age,gender,blood_pressure,heart_rate,temperature,condition_1,condition_2,condition_3,allergies
+# Example:
+45,M,120/80,72,98.6,hypertension,diabetes,none,penicillin
+# Add your patient data below this line:
+62,F,140/90,75,98.8,hypertension,heart_failure,cholesterol,none
+35,M,118/75,68,98.4,asthma,allergies,none,penicillin
+51,F,125/82,71,98.6,depression,anxiety,none,none
