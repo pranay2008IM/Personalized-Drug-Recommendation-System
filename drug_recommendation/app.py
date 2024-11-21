@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("🏥 Intelligent Drug Recommendation System")
+st.title("🏥 Personalized Drug Recommendation System")
 st.markdown("""
 This system uses advanced machine learning to recommend appropriate medications based on patient conditions.
 Please enter the patient information below to get personalized drug recommendations.
